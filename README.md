@@ -2,6 +2,7 @@ Education
 ======
 
 **Yeshiva University**, June 2021
+
 **Major**:  Biochemistry | **Minor**: Mathematics | **GPA**: 3.90
 
 **Relevant Coursework:** Computational Biology of Proteins (Graduate), Biostatistics and Informatics (Graduate), Physical Chemistry I & II (Honors), Algorithms/Data Structures and Linear Algebra/Vector Calculus for Engineers (Honors).
