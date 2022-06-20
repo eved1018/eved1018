@@ -51,7 +51,7 @@ Experience
 
 Leadership
 ===
-[**Albert Einstein College of Medicine**](https://github.com/eved1018/PymolSlides) Teaching Assistant, December 2021 – Present
+**Albert Einstein College of Medicine** Teaching Assistant, December 2021 – Present
  - Lectures on introductory programming, Python and Pymol to 10 PhD students.
 
 **Yeshiva College Computer Science Journal Club** Vice President, June 2020 – May 2021 
