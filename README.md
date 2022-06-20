@@ -19,11 +19,11 @@ Projects
 [**Pericaat** ](https://github.com/eved1018/Pericaat) April 2022 - present 
  - Developing multithreaded Python program to aid in drug discovery by identifying pharmacologically relevant protein residues at the periphery of a protein’s interface.
  
-[**What’s For Dinner?**] (https://github.com/eved1018/WhatsForDinner)February 2022 - present 
+[**What’s For Dinner?**](https://github.com/eved1018/WhatsForDinner)February 2022 - present 
 
 - Designing interactive C++ command line application to streamline meal planning.
 
-[**Community Builder**] (https://github.com/eved1018/CommunityBuilder) December 2021 - present 
+[**Community Builder**](https://github.com/eved1018/CommunityBuilder) December 2021 - present 
 -	Designing full-stack web application to organize and generate marketing campaign content.
 -	Implementing Database to organize data and generate detailed analytics.
 
@@ -31,7 +31,7 @@ Projects
 - Engineering efficient server-side rendered website using Next.js to provide external access to lab developed software.
 - Creating animations and UI components with Next.js, Framer-motion, and Chakra-UI. 
 
-[**ISPIP**] (https://github.com/eved1018/ISPIP) May 2021 – June 2021
+[**ISPIP**](https://github.com/eved1018/ISPIP) May 2021 – June 2021
 -	Implemented Python package and GUI to assist drug target discovery by providing a machine learning based protein interface prediction and visualization tool. 
 
 Experience
@@ -50,7 +50,7 @@ Experience
 
 Leadership
 ===
-[**Albert Einstein College of Medicine**] () Teaching Assistant, December 2021 – Present
+[**Albert Einstein College of Medicine**](https://github.com/eved1018/PymolSlides) Teaching Assistant, December 2021 – Present
  - Lectures on introductory programming, Python and Pymol to 10 PhD students.
 
 **Yeshiva College Computer Science Journal Club** Vice President, June 2020 – May 2021 
