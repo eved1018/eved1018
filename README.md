@@ -20,7 +20,7 @@ Projects
 [**Pericaat** ](https://github.com/eved1018/Pericaat) April 2022 - present 
  - Developing multithreaded Python program to aid in drug discovery by identifying pharmacologically relevant protein residues at the periphery of a protein’s interface.
  
-[**What’s For Dinner?**](https://github.com/eved1018/WhatsForDinner)February 2022 - present 
+[**What’s For Dinner?**](https://github.com/eved1018/WhatsForDinner) February 2022 - present 
 
 - Designing interactive C++ command line application to streamline meal planning.
 
