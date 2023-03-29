@@ -41,7 +41,7 @@ Projects
 Experience
 ======
 **Regeneron** Software Engineer - NGS/GI , August 2022 – present 
-- Develop, implement and deploy at-speed and at-scale solutions for both RGC-GI production and R&D experiments.
+- Develop, implement and deploy at-speed and at-scale genome informatics solutions for large scale sequencing production. 
 
 **Albert Einstein College of Medicine** Research Trainee, June 2021 – August 2022 
 - Studying the effects of mutation on protein interactions by change in binding-energy using Molecular Dynamic Simulation.
