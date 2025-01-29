@@ -13,7 +13,7 @@ Education
 
 Skills
 ======
-**Coding Languages and Tools:** Python (Pandas/Scikit-learn/Matplotlib/Venv), C++,Rust, JavaScript (Node/React/Next), R, Bash, SQL, Unix, Git, Slurm, Amber
+**Coding Languages and Tools:** Python (Pandas/Scikit-learn/Matplotlib/Venv/FastApi), C/C++ (HTSlib), Rust, JavaScript (Node/React/Next), R, Bash, SQL, Unix, Git, Slurm, Amber
 
 Projects
 ======
